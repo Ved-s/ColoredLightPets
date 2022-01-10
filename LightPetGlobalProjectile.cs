@@ -16,8 +16,6 @@ namespace ColoredLightPets
             if (ColoredLightPets.IsLightPetProj.Contains(projectile.type))
                 ColoredLightPets.CurrentProjectile = projectile;
             return true;
-
-            Terraria.ID.ItemID.InfernalWispDye
         }
 
         public override void PostAI(Projectile projectile)
