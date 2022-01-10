@@ -1,5 +1,5 @@
 displayName = Colored Light Pets
 author = Ved_s
-version = 0.1
+version = 0.2
 side = Client
 homepage = https://github.com/Ved-s/ColoredLightPets
