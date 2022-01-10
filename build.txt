@@ -1,0 +1,4 @@
+displayName = Colored Light Pets
+author = Ved_s
+version = 0.1
+side = Client

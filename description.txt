@@ -1,0 +1,3 @@
+This mod makes light pets' light change color according to current pet dye
+
+Mod tries to scan loaded mods for light pets (tested on Calamity)
